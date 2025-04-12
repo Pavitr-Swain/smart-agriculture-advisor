@@ -1,4 +1,11 @@
 # smart-agriculture-advisor
+url:- https://lovable.dev/projects/1e127c7c-4365-4654-b939-8bf951a5e6e9
+diployment link:-https://preview--smartfarm-sage.lovable.app/  
+
+
+
+
+
 AgriSmart is an AI-powered platform for farmers, offering crop analysis, weather updates, soil insights, and pest detection. With real-time analytics, expert guidance, and AI-driven recommendations, it enhances productivity and farm management. Features like chat support and precision agriculture tools help optimize yield and efficiency. 🚀🌱
 
   ** prompt for this **
