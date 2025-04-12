@@ -1,9 +1,7 @@
 # smart-agriculture-advisor
 AgriSmart is an AI-powered platform for farmers, offering crop analysis, weather updates, soil insights, and pest detection. With real-time analytics, expert guidance, and AI-driven recommendations, it enhances productivity and farm management. Features like chat support and precision agriculture tools help optimize yield and efficiency. 🚀🌱
 
-
-
-    prompt for this 
+  ** prompt for this **
     Project Prompt for Your Startup:
 “Build an AI-powered smart farming assistant that helps small to mid-size farmers increase their productivity through real-time crop monitoring, weather alerts, soil health analysis, and AI-guided pest control – all in one intuitive mobile/web app with multilingual support and offline features.”
 
