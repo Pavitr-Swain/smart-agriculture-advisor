@@ -1,7 +1,7 @@
 # smart-agriculture-advisor
 url:- https://lovable.dev/projects/1e127c7c-4365-4654-b939-8bf951a5e6e9
 diployment link:-https://preview--smartfarm-sage.lovable.app/  
-
+vercel:-https://v0-fork-of-smart-agriculture.vercel.app/
 
 
 
